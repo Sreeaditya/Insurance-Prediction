@@ -1,1 +1,2 @@
 # Insurance-Prediction
+A Python Program to model the life expectancy of an individual and analyze the sustainability of an insurance policy provided to the individual using linear regression. EDA is performed on the dataset which consists of the person’s lifestyle. Box Cox Transformation and Structural equation modeling is performed on the target variable, SEM examines linear causal relationships among variables and simultaneously accounts for measurement error. 
